@@ -1,0 +1,10 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+}
+
+.emj {
+    height: 8vh;
+    width: 9vw;
+    background-color: transparent;
+}

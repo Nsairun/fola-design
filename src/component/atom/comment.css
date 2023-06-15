@@ -1,0 +1,9 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+}
+
+.input {
+    height: 5vh;
+    max-width: 10vw;
+}

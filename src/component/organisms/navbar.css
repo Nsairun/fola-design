@@ -1,0 +1,18 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+}
+
+.bar1,
+.bar2 {
+    margin: 20px;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+    background-color: rgba(169, 172, 171, 0.171);
+    height: fit-content;
+}

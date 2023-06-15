@@ -1,0 +1,13 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+}
+
+.btn button {
+    color: black;
+    text-decoration: none;
+    background-color: rgba(241, 238, 238, 0.452);
+    padding: 8px;
+    border-radius: 5px;
+    border: none;
+}
