@@ -28,6 +28,40 @@ export default function App() {
           <Parag text={"All sizes can be fabricated"} />
         </div>
       </div>
+      <div className="desc">
+        <Image src={pic3} alt="" />
+
+        <div className="col_2">
+          <Heading text={"Description"} />
+          <Parag
+            text={
+              "Welcome to our house of fashion african fabric. Navigate thru the store of very eye picking designs from the land of human origin ... Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi similique perspiciatis labore cumque optio repellat explicabo porro harum excepturi, corporis mollitia error quidem odio consequuntur maiores necessitatibus odit eos. Esse!"
+            }
+          />
+        </div>
+
+        <div className="size">
+          <Heading text={"Size"} />
+          <Parag text={"All sizes can be fabricated"} />
+        </div>
+      </div>
+      <div className="desc">
+        <Image src={pic3} alt="" />
+
+        <div className="col_2">
+          <Heading text={"Description"} />
+          <Parag
+            text={
+              "Welcome to our house of fashion african fabric. Navigate thru the store of very eye picking designs from the land of human origin ... Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi similique perspiciatis labore cumque optio repellat explicabo porro harum excepturi, corporis mollitia error quidem odio consequuntur maiores necessitatibus odit eos. Esse!"
+            }
+          />
+        </div>
+
+        <div className="size">
+          <Heading text={"Size"} />
+          <Parag text={"All sizes can be fabricated"} />
+        </div>
+      </div>
     </div>
   );
 }
